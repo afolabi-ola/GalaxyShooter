@@ -57,7 +57,6 @@ function createAsteroid() {
 
     }
   }, 100);
-    console.log(getDistance());
 }
 setInterval(() => {
   createAsteroid();
